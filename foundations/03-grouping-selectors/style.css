@@ -1,0 +1,15 @@
+.harbor {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.side {
+    background-color: yellow;
+}
+
+.harbor,
+.side {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
